@@ -1,0 +1,8 @@
+{
+  "name": "qmap",
+  "version": "0.0.1",
+  "private": false,
+  "description": "a openlayers extent map library;",
+  "main": "dist/qmap.js",
+  "style": "dist/qmap.css"
+}
